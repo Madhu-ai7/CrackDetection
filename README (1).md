@@ -48,4 +48,4 @@ The system successfully detects cracks from sample images and displays predictio
 - Improve model accuracy using advanced architectures
 
 ## Author
-Your Name
+Madhusudhan
